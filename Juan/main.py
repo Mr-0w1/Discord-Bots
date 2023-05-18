@@ -14,7 +14,7 @@ async def on_disconnect():
 async def ping(message):
     with open('JUAN.jpg', 'rb') as f:
         image = discord.File(f)
-        await message.channel.send('<@948616430100836352>', file=image)
+        await message.channel.send('<@person to annoy id>', file=image)
 
 @client.event
 async def on_message(message):
