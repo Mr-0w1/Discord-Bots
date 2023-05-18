@@ -1,5 +1,5 @@
 # Discord-Bots
-This is a repository of all of my Discord bots minus my bot tokens. It is all in discord.py, do as you please. There are steps to make a virtual enviroment if you want.
+This is a repository of all of my Discord bots minus my bot tokens. It is all in discord.py, do as you please. There are steps to make a virtual enviroment if you want. REMEMBER replace at the botom 'Token' with your bot token.
 
 
 ### Cloning the Repository
