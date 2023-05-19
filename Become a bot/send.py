@@ -8,7 +8,7 @@ async def on_ready():
     print('Bot activated')
     while True:
         thing = input("Enter something: ")
-        channel = client.get_channel(1033270073646907412) 
+        channel = client.get_channel(channel-to-send-to) 
         await channel.send(thing)
 
 client.run('Token')
