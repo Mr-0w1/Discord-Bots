@@ -43,4 +43,4 @@ async def on_message(message):
         else:
             await message.channel.send(f'Hey, <@{authorized_users[0]}>, this idiot {message.author.mention} tried to use the admin command. what a loser lol')
 
-client.run('MTA5NTMwOTk4MTA4MDg5MTUyMg.GaOXBY.pv0farYrxBYeDJKKRbGpVHzSP2zndOiCK6esVE')
+client.run('YOUR BOT TOKEN')
